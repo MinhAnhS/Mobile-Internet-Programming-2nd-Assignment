@@ -1,0 +1,4 @@
+#Wed Feb 07 23:50:46 EET 2018
+base.0=C\:\\Users\\murci\\Google Drive\\School\\Oulu\\2nd year\\Mobile Internet Programming\\2nd app\\da\\maps_app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\murci\\Google Drive\\School\\Oulu\\2nd year\\Mobile Internet Programming\\2nd app\\da\\maps_app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
