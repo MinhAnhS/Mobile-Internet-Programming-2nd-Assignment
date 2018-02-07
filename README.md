@@ -10,6 +10,6 @@ https://developers.google.com/maps/documentation/javascript/geolocation
 
 This site follow these licensing terms below that allowed me to use and reproduce these
 material for my own creation:
-https://developers.google.com/terms/site-policies
-http://www.apache.org/licenses/LICENSE-2.0
-https://creativecommons.org/licenses/by/3.0/
+https://developers.google.com/terms/site-policies 
+http://www.apache.org/licenses/LICENSE-2.0 
+https://creativecommons.org/licenses/by/3.0/ 
